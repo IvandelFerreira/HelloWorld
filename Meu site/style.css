@@ -1,9 +1,18 @@
+/*
+cores que usarei:
+#242038
+#725AC1
+#8D86C9
+#CAC4CE
+#F7ECE1
+*/
+
 body{
-    background-color: black;
+    background: #F7ECE1;
 }
 
 h1{
-    color: black;
+    color: #F7ECE1;
     text-align: center;
 }
 p{
@@ -13,7 +22,6 @@ p{
     font-family: Arial, Helvetica, sans-serif;
 }
 .box1{
-    background-color: white;
     padding-left: 1%;
     padding-right: 1%;
     padding-top: 1%;
@@ -22,14 +30,14 @@ p{
 
 }
 .boxindex{
-    background-color: rgb(55, 0, 255);
+    background-color:#242038;
     padding-left: 1%;
     padding-right: 1%;
     padding-top: 1%;
     padding-bottom: 1%;
 }
 .boxbutton{
-    background-color: white;
+    background-color: #8D86C9;
     padding-left: 1%;
     padding-right: 1%;
     padding-top: 1%;
@@ -46,10 +54,14 @@ p{
 
 .conteiner-flex{
     display: flex;
+    background-color: #242038;
 }
 
 .item{
-    background-color: rgba(127, 255, 212, 0.541);
+    background-color: #CAC4CE;
     padding: 1% 10% 1% 10%;
     margin: auto;
+}
+.mark-text{
+    background-color: #8D86C9;
 }
