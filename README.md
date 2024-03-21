@@ -1,2 +1,2 @@
 # HelloWorld
- Aprendendo versionamento
+ Aprendendo versionamento, HTML, CSS e JavaScript
