@@ -20,7 +20,11 @@ p{
     margin-top: 5px;
     margin-bottom: 5px;
     font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
+    font-size: 20px;
+}
+
+mark{
+    background-color: #8D86C9;
 }
 .box1{
     padding-left: 1%;
@@ -63,6 +67,17 @@ p{
     padding: 1% 10% 1% 10%;
     margin: auto;
 }
+.item2{
+    background-color: #CAC4CE;
+    width: 10%;
+    height: 7%;
+}
 .mark-text{
     background-color: #8D86C9;
+}
+
+.imagem1{
+    border-radius: 60%;
+    width: 25%;
+    height: 25%;
 }
